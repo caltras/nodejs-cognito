@@ -43,3 +43,6 @@ COGNITO_CLIENT_ID
     ]
 }
 ```
+
+This code was based on the tutorial
+https://medium.com/@janitha000/authentication-using-amazon-cognito-and-nodejs-c4485679eed8 
