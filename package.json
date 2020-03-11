@@ -4,6 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/server.js",
+    "build": "npm test && rm -rf build && mkdir build && cp -r src/* build/",
     "test": "mocha"
   },
   "author": "Claudio Traspadini Oliveira",
